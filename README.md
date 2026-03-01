@@ -1,19 +1,32 @@
-# Hey, I'm Sam 👋
+# SAM-AEL
 
-Building digital experiences.
-
-## I'm Spending time on
-
-- **⚡ React-Native Packages**
-- **⚡ MedusaJS Plugins**
-
-## Tech I Use
-
-TypeScript • Next.js • React Native • Node.js • Supabase • PostgreSQL • Rust
+I make apps.
+They usually work.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAM-AEL&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM-AEL&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9" width="49%" />
-</p>
+## Current Obsessions
+
+- Building things that probably didn't need to exist
+- Turning "this is impossible" into "okay fine it works"
+- Deleting code I wrote yesterday
+
+---
+
+## Stack
+
+TypeScript • React Native • Next.js • Node  
+Supabase • PostgreSQL • Rust  
+And whatever gets the job done.
+
+---
+
+## Status
+
+- Compiling…
+- Shipping…
+- Refactoring something that was “final”
+
+---
+
+> If it runs in production, it was intentional.
