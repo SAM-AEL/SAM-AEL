@@ -7,7 +7,7 @@ Occasional bug fixer.
 
 ## What I Do
 
-- Build React Native packages
+- Build React packages
 - Write backend logic at 2AM
 - Rename variables 17 times
 - Pretend I like PostgreSQL migrations
