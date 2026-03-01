@@ -1,32 +1,32 @@
 # SAM-AEL
 
-I make apps.
-They usually work.
+Professional bug creator.
+Occasional bug fixer.
 
 ---
 
-## Current Obsessions
+## What I Do
 
-- Building things that probably didn't need to exist
-- Turning "this is impossible" into "okay fine it works"
-- Deleting code I wrote yesterday
-
----
-
-## Stack
-
-TypeScript • React Native • Next.js • Node  
-Supabase • PostgreSQL • Rust  
-And whatever gets the job done.
+- Build React Native packages
+- Write backend logic at 2AM
+- Rename variables 17 times
+- Pretend I like PostgreSQL migrations
 
 ---
 
-## Status
+## Tech
 
-- Compiling…
-- Shipping…
-- Refactoring something that was “final”
+TypeScript • React Native • Next.js  
+Node.js • Supabase • PostgreSQL • Rust  
 
 ---
 
-> If it runs in production, it was intentional.
+## Fun Facts
+
+- It worked on my machine.
+- I will refactor it.
+- I did not refactor it.
+
+---
+
+> Production is just beta with confidence.
